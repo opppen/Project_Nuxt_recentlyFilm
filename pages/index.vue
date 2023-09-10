@@ -224,7 +224,7 @@ export default {
         grid-template-columns: repeat(2, 1fr);
       }
       @media (min-width: 750px) {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
       }
       @media (min-width: 1100px) {
         grid-template-columns: repeat(4, 1fr);
